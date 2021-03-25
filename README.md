@@ -1,2 +1,3 @@
-# cakebedwars
+#CakeBedwars
 CakeBedwars - A wonderfull and lite bedwars plugin!
+
