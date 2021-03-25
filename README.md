@@ -1,4 +1,4 @@
-CakeBedwars
+# CakeBedwars
 
 CakeBedwars is an amazing plugin for bungeecord networks.
 
